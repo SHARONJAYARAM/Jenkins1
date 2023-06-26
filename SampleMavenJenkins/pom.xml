@@ -24,7 +24,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>jekinpackage.JenkinClass</mainClass>
+							<mainClass>jenkinpackage.JenkinClass</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
